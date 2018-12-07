@@ -6,4 +6,4 @@ devtools::install_github("hakki13/SportsData")
 
 library(SportsData)
 
-data("NHL_Data")
+data("NHL")
