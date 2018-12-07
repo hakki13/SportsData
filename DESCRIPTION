@@ -1,0 +1,12 @@
+Package: SportsData
+Title: Collection of Sports Data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Markku",
+           family = "Viitanen",
+           role = c("aut", "cre"),
+           email = "markku.viitanen@gmail.com")
+Description: First R Package.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
